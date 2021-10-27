@@ -19,3 +19,4 @@ jan<-raster(here("Data", "wc2.0_5m_tavg_01.tif"))
 #plot(jan)
 ```
 
+this analysis f
