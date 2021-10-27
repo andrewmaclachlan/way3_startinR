@@ -1,11 +1,6 @@
-Hello
+x<-1+1
 
-"I am online"
+y<-2+2
 
-once
+z<-5+5
 
-twice
-
-"Github edit"
-
-hello
