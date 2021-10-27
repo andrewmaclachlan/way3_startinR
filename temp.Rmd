@@ -1,0 +1,21 @@
+---
+title: "temp_plot"
+author: "AMacLachlan"
+date: "27/10/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Temp analysis
+
+```{r temp_analysis}
+library(here)
+library(raster)
+jan<-raster(here("Data", "wc2.0_5m_tavg_01.tif"))
+# have a look at the raster layer jan
+#plot(jan)
+```
+
